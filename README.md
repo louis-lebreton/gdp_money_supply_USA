@@ -5,7 +5,7 @@
 Analyse des fluctuations du PIB et de la masse monétaire des Etats-Unis de 1990 à 2021 et mise en évidence de la relation entre ces deux variables macroéconomiques. Données : Banque mondiale.
 
 ### Méthodes statistiques utilisées :
-Filtres Hodrick-Prescott, régressions linéaires simples.
+Filtre Hodrick-Prescott, régressions linéaires simples.
 ### Librairies utilisées :
 ggplot2, mFilter, tidyverse, reshape2.
 
