@@ -1,15 +1,16 @@
-# Analyse des fluctuations du PIB et de la masse monétaire des Etats-Unis
+# Analysis of GDP and monetary supply fluctuations in the United States
 
 
-### Objectif du projet : 
-Analyse des fluctuations du PIB et de la masse monétaire des Etats-Unis de 1990 à 2021 et mise en évidence de la relation entre ces deux variables macroéconomiques. Données : Banque mondiale.
+### Project goal: 
+Analysis of the fluctuations of the GDP and the monetary supply in the United States from 1990 to 2021, highlighting the relationship between these two macroeconomic variables. Data: World Bank.
 
-### Méthodes statistiques utilisées :
-Filtre Hodrick-Prescott, régressions linéaires simples.
-### Librairies utilisées :
+### Statistical methods used:
+Hodrick-Prescott filter, linear regressions
+
+### Libraries used:
 ggplot2, mFilter, tidyverse, reshape2.
 
-### Exemple de graphiques réalisés :
+### Examples of charts created:
 <p align="center">
 <img src="Exemple_graph_1.jpeg" alt="Exemple_graph_1" width="700"/>
 <img src="Exemple_graph_2.jpeg" alt="Exemple_graph_2" width="700"/>
